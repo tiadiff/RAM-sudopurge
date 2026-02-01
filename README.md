@@ -2,7 +2,7 @@
 
 A lightweight macOS menu bar application designed to monitor RAM usage and provide a quick way to purge inactive memory with administrator privileges.
 
-![Icon](RAMMonitor/RAMMonitor.app/Contents/Resources/RAMMonitor.icns)
+<img width="61" height="23" alt="Schermata 2026-02-01 alle 20 05 06" src="https://github.com/user-attachments/assets/c14118d2-391f-49c5-927b-44b5cc53637d" />
 
 ## Features
 
@@ -13,7 +13,7 @@ A lightweight macOS menu bar application designed to monitor RAM usage and provi
 *   **Native & Lightweight**: Built with Swift, no external dependencies.
 *   **Emoji Icon**: The application uses a custom 🧹 emoji icon.
 
-## Installation
+## Run
 
 1.  Clone this repository or download the source.
 2.  Navigate to the `RAMMonitor/RAMMonitor.app` folder.
